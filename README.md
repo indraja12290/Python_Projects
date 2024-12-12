@@ -58,5 +58,5 @@ Indraja N
 
 🌱 Aspiring Data Analyst
 📫 Reach me at indraja518n@gmail.com.
-🔗 GitHub Profile
+🔗 [GitHub Profile](https://github.com/indraja12290)
 
